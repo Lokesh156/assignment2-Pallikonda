@@ -25,4 +25,20 @@ Youtube <https://www.youtube.com/>
 
 >True peace is not merely the absence of tension; it is the presence of justice.*martin luther king*
 
+***
+>Better Broken Image Handling
+**[Jquery](https://css-tricks.com/snippets/jquery/better-broken-image-handling/)**
+
+```
+
+$('img').on("error", function() {
+  $(this).attr('src', '/images/missing.png');
+});
+
+// Or, hide them
+$("img").on("error", function() {
+  $(this).hide();
+});
+
+```
 
