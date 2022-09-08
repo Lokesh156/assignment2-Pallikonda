@@ -17,3 +17,9 @@
 Rajiv Gandhi International Airport.
 
 There are many ways to travel to the museums and one the most convient way is using car or cab services near the airport and in addition to these,there is a public transport system which is of cheaper cost.
+
+#### other locations around the museum
+* Bhongir Fort
+* Muse Art Gallery
+* Golconda Fort
+* and many more
