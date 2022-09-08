@@ -13,7 +13,7 @@ Youtube <https://www.youtube.com/>
 | City |  Important location |  Amount of time to spend |
 | --- | --- | --- |
 | Paris | Effiel Tower | 2 hours |
-| Delhi | India Gate | | 1 hour |
+| Delhi | India Gate  | 1 hour |
 | Mumbai | Gateway of India | 3 hours |
 | New York | Empire state Building | 2.5 hours |
 
