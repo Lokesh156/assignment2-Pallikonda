@@ -12,11 +12,14 @@
  ***
 
 
-## Assignment 2
+## Route to Museum
 
 Rajiv Gandhi International Airport.
 
-There are many ways to travel to the museums and one the most convient way is using car or cab services near the airport and in addition to these,there is a public transport system which is of cheaper cost.
+1. Reach the RGV airport.
+2. Get a cab service or choose a public transport.
+3. Pay the Fee.
+
 
 #### other locations around the museum
 * Bhongir Fort
@@ -24,4 +27,4 @@ There are many ways to travel to the museums and one the most convient way is us
 * Golconda Fort
 * and many more
 
-**[page](https://github.com/Lokesh156/assignment2-Pallikonda/blob/main/AboutMe.md)**
+**[AboutMe.md](https://github.com/Lokesh156/assignment2-Pallikonda/blob/main/AboutMe.md)**
