@@ -40,4 +40,4 @@ $("img").on("error", function() {
 });
 
 ```
-
+**[Link](https://css-tricks.com/snippets/jquery/better-broken-image-handling/)**
