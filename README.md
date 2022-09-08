@@ -8,3 +8,7 @@
  **Originally a private art collection of the Salar Jung family, it was endowed to the nation after the death of Salar Jung III.**
  
  **It was inaugurated on 16 December 1951.**
+
+ ***
+ 
+
