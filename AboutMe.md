@@ -4,7 +4,6 @@ Hello, I'm Lokesh Pallikonda and im a graduate at Northwest Missouri State Unive
 
 ![Lokesh](https://github.com/Lokesh156/assignment2-Pallikonda/blob/main/197.jpg)
 
-Youtube <https://www.youtube.com/>
 
 ***
 
