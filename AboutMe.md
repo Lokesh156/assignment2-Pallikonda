@@ -26,7 +26,7 @@ Hello, I'm Lokesh Pallikonda and im a graduate at Northwest Missouri State Unive
 
 ***
 >Better Broken Image Handling
-**[Jquery](https://css-tricks.com/snippets/jquery/better-broken-image-handling/)**
+**[Stack Overflow](https://stackoverflow.com/questions/2050597/what-is-the-optimum-way-to-handle-broken-images)**
 
 ```
 
